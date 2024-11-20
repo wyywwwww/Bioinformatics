@@ -18,12 +18,11 @@ This repository contains scripts, data, and resources for bioinformatics analysi
 
 ## **Requirements**
 To run the code in this repository, ensure you have the following:
-
-Python version: 3.8 or later
-Dependencies:
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
-jupyter
+- **Python version**: 3.8 or later
+- **Dependencies**:
+  - pandas
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - jupyter
